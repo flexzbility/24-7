@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Yarrakbant.aternos.me:43823",
+    "ip": "Yarrakbant.aternos.me",
     "port": 43823,
     "version": "",
     "try-creative": false
